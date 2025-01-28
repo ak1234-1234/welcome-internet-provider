@@ -15,6 +15,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/avatar1.svg
     badge:
       label: welcome internet provider
       color: text-primary
