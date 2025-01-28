@@ -12,7 +12,6 @@ sections:
       We are providing best internet services around PAKISTAN.
     actions: []
     media:
-      url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
