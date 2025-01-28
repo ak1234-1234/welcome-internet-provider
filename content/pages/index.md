@@ -11,7 +11,7 @@ sections:
     text: |
       We are providing best internet services around PAKISTAN.
     actions:
-      - label: See Tutorials
+      - label: ''
         altText: ''
         url: /
         showIcon: true
